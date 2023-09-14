@@ -12,6 +12,7 @@ This project enables seamless integration between an Information Management Syst
 - Interactive User Interface: Generate a user-friendly table with clickable links to parent folders, enhancing the user experience.
 
 **Getting Started**
+
 To get started with this project, follow these steps:
 
 - Clone the Repository: Clone this GitHub repository to your local machine.
