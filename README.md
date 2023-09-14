@@ -1,4 +1,5 @@
 **Overview**
+
 This project enables seamless integration between an Information Management System (IMS) and the Low Code platform KNIME. It empowers users to efficiently search for file IDs within the IMS and generates a user-friendly table with links to the parent folders. This solution simplifies the process of extracting relevant information from CSV files and provides a convenient interface for users to interact with the IMS data.
 
 **Features**
